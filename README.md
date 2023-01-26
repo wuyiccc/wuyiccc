@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning Java, C, C++
+- 😄 I’m cureently learning the following
+```
+- 1. jdk
+- 2. redis
+- 3. mysql
+```
+- ⚡ my blog url: https://github.com/wuyiccc/wuyiccc-blog
