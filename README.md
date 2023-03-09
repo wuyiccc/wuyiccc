@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 - 1. jdk
 - 2. redis
 - 3. mysql
+- 4. rocketmq
 ```
 - ⚡ my blog url: https://github.com/wuyiccc/wuyiccc-blog
