@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Java 70%, C/C++ 15%, Go 8%, JS/TS 7%
+- 🌱 I’m currently learning Java 70%, C/C++ 15%, Go 8%, TypeScript 7%
 - 😄 I’m cureently learning the following
 ```
 - 1. jdk
