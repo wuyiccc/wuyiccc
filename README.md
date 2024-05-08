@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 3. mysql
 - 4. rocketmq
 ```
-- ⚡ my blog url: https://github.com/wuyiccc/wuyiccc-blog
+- ⚡ my blog url: [https://github.com/wuyiccc/wuyiccc-blog](https://github.com/wuyiccc/doc)
